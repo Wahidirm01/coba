@@ -1,0 +1,93 @@
+[
+    {
+        "no": 1,
+        "soal": "Manakah pernyataan berikut yang benar mengenai kesebangunan? ",
+        "a": "a. Dua bangun datar dikatakan sebangun jika memiliki bentuk yang sama dan ukuran yang sama.",
+        "b": "b. Dua bangun datar dikatakan sebangun jika sudut-sudut yang bersesuaian sama besar dan perbandingan panjang sisi-sisi yang bersesuaian sama.",
+        "c": "c. Dua bangun datar dikatakan sebangun jika memiliki bentuk yang sama tetapi ukurannya tidak perlu sama.",
+        "d": "d. Dua bangun datar dikatakan sebangun jika memiliki ukuran yang sama tetapi bentuknya tidak perlu sama.",
+        "benar": "b"
+    },
+    {
+        "no": 2,
+        "soal": "Jam dan koin keduanya memiliki bentuk lingkaran, tetapi ukurannya berbeda. Berdasarkan konsep kesebangunan, manakah pernyataan berikut yang benar? ",
+        "a": "a. Jam dan koin bisa dikatakan sebangun jika setiap bagian dari jam memiliki proporsi yang sama dengan bagian yang bersesuaian pada koin.",
+        "b": "b. Jam dan koin tidak bisa dikatakan sebangun karena ukurannya berbeda.",
+        "c": "c. Jam dan koin dikatakan sebangun jika jam memiliki diameter dua kali lipat dari diameter koin.",
+        "d": "d. Jam dan koin selalu sebangun tanpa mempertimbangkan ukurannya karena keduanya berbentuk lingkaran.",
+        "benar": "a"
+    },
+    {
+        "no": 3,
+        "soal": "Apakah kedua ukuran pas foto di atas sebangun?",
+        "a": "a. Ya, karena kedua pas foto memiliki perbandingan sisi yang sama.",
+        "b": "b. Ya, karena kedua pas foto memiliki bentuk persegi panjang.",
+        "c": "c. Tidak, karena kedua pas foto memiliki ukuran yang berbeda.",
+        "d": "d. Tidak, karena perbandingan sisi pada kedua pas foto berbeda.",
+        "benar": "a"
+    },
+    {
+        "no": 4,
+        "soal": "Sella memiliki dua pas foto dengan ukuran berbeda. Pas foto pertama berukuran 2x3 cm dan pas foto kedua berukuran 4x6 cm. Jika Sella ingin mencetak pas foto ketiga yang juga sebangun dengan kedua pas foto tersebut, manakah dari ukuran berikut yang sesuai untuk pas foto ketiga?",
+        "a": "a. 3 x 5 cm",
+        "b": "b. 5 x 8 cm",
+        "c": "c. 6 x 9 cm",
+        "d": "d. 8 x 12 cm",
+        "benar": "d"
+    },
+    {
+        "no": 5,
+        "soal": "Diketahui tinggi tongkat PQ sesungguhnya adalah 4 m dan Panjang bayangannya 15 m. jika Panjang bayangan pohon adalah 30 m, tentukan tinggi pohon.",
+        "a": "a. 12 m",
+        "b": "b. 23 m",
+        "c": "c. 36 m",
+        "d": "d. 37 m",
+        "benar": "a"
+    },
+    {
+        "no": 6,
+        "soal": "Diketahui AB // CD dan OB : OC = 5 : 2. Jika Panjang CD = 3 cm maka Panjang AB adalah . . .",
+        "a": "a. 2,5 cm",
+        "b": "b. 5 cm",
+        "c": "c. 7,5 cm",
+        "d": "d. 12 cm",
+        "benar": "c"
+    },
+    {
+        "no": 7,
+        "soal": "Diketahui jika PC = 3 cm, AC = 9 cm dan AB = 15 cm, maka Panjang PQ adalah . . . ",
+        "a": "a. 4,0 cm",
+        "b": "b. 5,0 cm",
+        "c": "c. 7,5 cm",
+        "d": "d. 10,0 cm",
+        "benar": "b"
+    },
+    {
+        "no": 8,
+        "soal": "Nilai a dan b adalah ",
+        "a": "a. a = 10, b = 7",
+        "b": "b. a = 9, b = 8",
+        "c": "c. a = 10, b = 8",
+        "d": "d. a = 5, b = 4",
+        "benar": "b"
+    },
+    {
+        "no": 9,
+        "soal": "Diketahui AF = 5 cm, AC = 13 cm dan CE = 8 cm. Panjang BE adalah ….",
+        "a": "a. 15 cm",
+        "b": "b. 12,8 cm",
+        "c": "c. 11,4 cm ",
+        "d": "d. 10,8 cm",
+        "benar": "b"
+    },
+    {
+        "no": 10,
+        "soal": "Diketahui Panjang BD = 3 cm dan CD = 12 cm. Panjang AD adalah … cm",
+        "a": "a. 6 cm",
+        "b": "b. 12,5 cm",
+        "c": "c. 20 cm",
+        "d": "d. 34 cm",
+        "benar": "a"
+    }
+  ]
+  

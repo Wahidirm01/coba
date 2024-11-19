@@ -1,0 +1,147 @@
+/* CSS untuk layout dan gaya tampilan menu */
+header {
+    background-color: #50B6A1; /* Ubah warna header menjadi hijau */
+    padding: 1.5rem; /* Tambahkan sedikit padding untuk header */
+    display: flex;
+    justify-content: center; /* Menempatkan konten di tengah */
+    align-items: center;
+    position: relative; /* Mengatur posisi elemen di dalam header */
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 20px; /* Menambahkan spasi antara elemen dalam logo */
+}
+
+.logo h1 {
+    margin: 0;
+    font-size: 24px; /* Ubah ukuran font menjadi lebih besar */
+    color: #FFFFFF; /* Ubah warna teks menjadi putih */
+}
+
+.logo img {
+    height: 40px; /* Sesuaikan ukuran logo */
+}
+
+.nav-container {
+    position: absolute; /* Menempatkan nav di kiri */
+    right: 1rem; /* Menyesuaikan posisi dari kanan */
+}
+
+/* Gaya tampilan tambahan bisa ditambahkan di sini */
+
+nav {
+    display: flex;
+    gap: 20px; /* Meningkatkan gap antara link navigasi */
+}
+
+nav a {
+    color: #FFFFFF; /* Ubah warna teks menjadi putih */
+    text-decoration: none;
+    padding: 0.5rem 1.5rem; /* Menambahkan padding untuk lebih banyak spasi di sekitar link */
+    border-radius: 4px; /* Lebih membulatkan sudut */
+    transition: background-color 0.3s ease;
+    background-color: rgba(255, 255, 255, 0); /* Jadikan latar belakang transparan */
+}
+
+nav a:hover {
+    background-color: rgba(255, 255, 255, 0.2); /* Ubah warna latar belakang saat hover */
+}
+
+nav a.active {
+    background-color: rgba(255, 255, 255, 0.4); /* Ubah warna latar belakang saat aktif */
+}
+
+nav a.active:hover {
+    background-color: rgba(255, 255, 255, 0.6); /* Ubah warna latar belakang saat aktif dan hover */
+}
+
+main {
+    padding: 2rem;
+    text-align: center;
+}
+
+section {
+    background-color: #FFFFFF; /* Ubah warna latar belakang section menjadi putih */
+    border-radius: 10px;
+    padding: 1.5rem; /* Tambahkan sedikit padding untuk section */
+    margin-bottom: 2rem;
+}
+
+.info-media, .info-developer {
+    background-color: #F0F0F0; /* Ubah warna latar belakang info menjadi abu-abu muda */
+    padding: 1.5rem; /* Tambahkan sedikit padding untuk info */
+    margin-bottom: 2rem;
+    line-height: 1.6; /* Mengatur jarak antar baris untuk keterbacaan */
+    border-radius: 10px; /* Menambahkan border-radius untuk sudut yang melengkung */
+}
+
+.info-developer h2, .info-media h2 {
+    text-align: center; /* Menempatkan h2 di tengah */
+    font-size: 24px; /* Ubah ukuran font menjadi lebih besar */
+    margin-bottom: 1rem; /* Tambahkan sedikit margin bawah untuk h2 */
+}
+
+.info-developer p, .info-media p {
+    text-align: justify; /* Justifikasi paragraf */
+}
+
+.info-developer ul, .info-media ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0; /* Menghilangkan margin default pada ul */
+    text-align: left; /* Meratakan teks dalam daftar ke kiri */
+}
+
+.info-developer ul li, .info-media ul li {
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center; /* Align items center for bullet and text */
+}
+
+.info-developer ul li::before, .info-media ul li::before {
+    content: "\2022"; /* Bullet karakter Unicode */
+    color: #50B6A1; /* Warna bullet */
+    display: inline-block;
+    width: 1em; /* Adjust the width of the bullet */
+    margin-right: 10px; /* Adjust margin to space bullets */
+    font-size: 1.2em; /* Ukuran bullet */
+}
+
+.info-developer ul li span, .info-media ul li span {
+    font-size: 16px; /* Ukuran teks */
+}
+
+footer {
+    background-color: #50B6A1; /* Ubah warna footer menjadi hijau */
+    padding: 1.5rem; /* Tambahkan sedikit padding untuk footer */
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto; /* Mengatur margin bawah untuk auto */
+}
+
+/* Media Queries for responsiveness */
+@media (max-width: 768px) {
+    header, footer {
+        padding: 1rem; /* Sedikit kurangi padding pada header dan footer */
+    }
+
+    main {
+        padding: 1.5rem; /* Tambahkan sedikit padding untuk main */
+    }
+
+    section {
+        padding: 1rem; /* Sedikit kurangi padding pada section */
+    }
+}
+
+@media (max-width: 480px) {
+    header {
+        font-size: 1rem;
+    }
+
+    footer {
+        font-size: 0.875rem;
+    }
+}

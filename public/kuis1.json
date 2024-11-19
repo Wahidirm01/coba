@@ -1,0 +1,92 @@
+[
+  {
+      "no": 1,
+      "soal": "Sudut didefinisikan sebagai . . . ",
+      "a": "a. Dua sinar garis yang berbaris",
+      "b": "b. Dua sinar garis yang bersekutu ",
+      "c": "c. Dua garis yang berpotongan tepat di satu titik",
+      "d": "d. Dua garis berimpit",
+      "benar": "c"
+  },
+  {
+      "no": 2,
+      "soal": "Besar sudut ∠ABC adalah 135°. Sudut tersebut termasuk ke dalam jenis sudut apa? ",
+      "a": "a. Sudut Lancip",
+      "b": "b. Sudut Siku-Siku",
+      "c": "c. Sudut Tumpul",
+      "d": "d. Sudut Reflek",
+      "benar": "c"
+  },
+  {
+      "no": 3,
+      "soal": "Besar ∠ABD adalah ….",
+      "a": "a. 98°",
+      "b": "b. 105°",
+      "c": "c. 112°",
+      "d": "d. 119°",
+      "benar": "b"
+  },
+  {
+      "no": 4,
+      "soal": "Tentukan nilai a pada gambar di atas!",
+      "a": "a. 12°",
+      "b": "b. 13°",
+      "c": "c. 14°",
+      "d": "d. 15°",
+      "benar": "d"
+  },
+  {
+      "no": 5,
+      "soal": "Pernyataan pasangan garis yang benar berdasarkan kondisi gambar di atas adalah ....",
+      "a": "a. Garis-garis yang sejajar adalah garis a dengn b dan garis k dengan n Garis yang berpotongan adalah garis a dengan k, m dan n",
+      "b": "b. Garis-garis yang sejajar adalah garis a dengn b dan garis m dengan n Garis yang berpotongan adalah garis a dengan b, m dan n",
+      "c": "c. Garis-garis yang sejajar adalah garis a dengn k dan garis m dengan n Garis yang berpotongan adalah garis a dengan k dan n",
+      "d": "d. Garis-garis yang sejajar adalah garis a dengn m dan garis b dengan n Garis yang berpotongan adalah garis a dengan b, m dan n",
+      "benar": "a"
+  },
+  {
+      "no": 6,
+      "soal": "Tentukan nilai x-nya ....",
+      "a": "a. 30°",
+      "b": "b. 40°",
+      "c": "c. 50°",
+      "d": "d. 60°",
+      "benar": "a"
+  },
+  {
+      "no": 7,
+      "soal": "Pasangan sudut yang jumlahnya 180° adalah .....",
+      "a": "a. ∠P2 dan ∠Q4 ",
+      "b": "b. ∠P1 dan ∠Q3",
+      "c": "c. ∠P3 dan ∠Q2",
+      "d": "d. ∠P4 dan ∠Q2",
+      "benar": "c"
+  },
+  {
+      "no": 8,
+      "soal": " Besar sudut x adalah ....",
+      "a": "a. 30°",
+      "b": "b. 50°",
+      "c": "c. 40°",
+      "d": "d. 60°",
+      "benar": "d"
+  },
+  {
+      "no": 9,
+      "soal": " Tentukanlah nilai x ....",
+      "a": "a. 8°",
+      "b": "b. 12°",
+      "c": "c. 16°",
+      "d": "d. 26°",
+      "benar": "a"
+  },
+  {
+      "no": 10,
+      "soal": "Tentukan nilai x . . . .",
+      "a": "a. 5°",
+      "b": "b. 13°",
+      "c": "c. 10°",
+      "d": "d. 7°",
+      "benar": "a"
+  }
+]

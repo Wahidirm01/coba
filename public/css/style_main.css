@@ -1,0 +1,180 @@
+body {
+    font-family: 'Poppins', Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('/assets/img/baground1.png'); /* Ganti dengan path ke gambar latar belakang Anda */
+    background-size: cover; /* Memastikan gambar latar belakang menutupi seluruh area */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed; /* Membuat gambar latar tetap */
+    color: #000000;
+}
+
+/* Main Container */
+.main-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+/* Login Container */
+.box-area {
+    width: 800px;
+    height: auto; /* Allow height to adjust based on content */
+    display: flex;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2); /* Adjusted shadow for more depth */
+    background-color: rgba(255, 255, 255, 0.9); /* Slightly more opaque background */
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+/* Left Box */
+.left-box {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    color: #000000;
+}
+
+.left-box .featured-image img {
+    width: 100%;
+    max-width: 300px;
+}
+
+.left-box .title {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    font-size: 1.5rem; /* Adjusted font size */
+    text-align: center;
+    margin-top: 20px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Efek bayangan teks */
+}
+
+.left-box .subtitle {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    width: 15rem; /* Adjusted width */
+    margin-top: 10px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Efek bayangan teks */
+}
+
+/* Right Box */
+.right-box {
+    flex: 1;
+    padding: 40px 30px; /* Adjusted padding */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.center-container {
+    text-align: center;
+    margin-bottom: 20px; /* Increased margin for spacing */
+}
+
+.center-container h2 {
+    margin: 0;
+    margin-bottom: 10px; /* Increased margin for spacing */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Ganti font */
+    font-size: 1.5rem; /* Adjusted font size */
+    color: #000000;
+}
+
+.center-container p {
+    margin: 0; /* Removed margin */
+    margin-bottom: 20px; /* Increased margin for spacing */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Ganti font */
+    font-size: 0.9rem; /* Adjusted font size */
+    color: #000000;
+}
+
+/* Input Group */
+.input-group {
+    margin-bottom: 15px; /* Adjusted margin for spacing */
+    position: relative; /* Position for icons */
+}
+
+.input-group label {
+    font-size: 1rem; /* Adjusted font size */
+    margin-bottom: 5px;
+    display: block;
+    color: #000000;
+}
+
+.input-group input, .input-group select {
+    width: 100%;
+    padding: 10px 15px; /* Adjusted padding for more space */
+    font-size: 1rem; /* Adjusted font size */
+    border: 1px solid #ccc; /* Lighter border color */
+    border-radius: 5px;
+    box-sizing: border-box;
+    background-color: rgba(255, 255, 255, 0.8); /* Slightly more opaque background */
+    color: #000000;
+    transition: all 0.3s ease; /* Smooth transition for focus */
+}
+
+.input-group input:focus, .input-group select:focus {
+    border-color: #50B6A1; /* Change border color on focus */
+    box-shadow: 0 0 5px rgba(80, 182, 161, 0.5); /* Add a subtle shadow */
+    background-color: rgba(255, 255, 255, 1); /* Fully opaque background on focus */
+}
+
+.input-group .input-icon {
+    position: absolute;
+    top: 50%;
+    left: 10px;
+    transform: translateY(-50%);
+    color: #aaa; /* Icon color */
+}
+
+/* Buttons */
+.input-group .btn-login, .input-group .btn-register {
+    width: 100%;
+    padding: 10px; /* Adjusted padding */
+    font-size: 1rem; /* Adjusted font size */
+    background-color: #50B6A1;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease; /* Add transition for transform */
+}
+
+.input-group .btn-login:hover, .input-group .btn-register:hover {
+    background-color: #3a9481;
+    transform: translateY(-2px); /* Slight lift effect on hover */
+}
+
+/* Custom Placeholder */
+::placeholder {
+    font-size: 0.9rem; /* Adjusted font size */
+    color: #999; /* Lighter placeholder color */
+    text-shadow: none; /* Removed text shadow */
+}
+
+/* Responsive Styles */
+@media only screen and (max-width: 700px) {
+    .box-area {
+        flex-direction: column;
+        width: 80%;
+        height: auto;
+        margin: 0 10px;
+    }
+
+    .left-box {
+        height: auto;
+        overflow: hidden;
+    }
+
+    .right-box {
+        padding: 20px; /* Adjusted padding */
+    }
+}

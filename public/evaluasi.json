@@ -1,0 +1,183 @@
+[
+    {
+        "no": 1,
+        "soal": "Sudut didefinisikan sebagai . . . ",
+        "a": "a. Dua sinar garis yang berbaris",
+        "b": "b. Dua sinar garis yang bersekutu ",
+        "c": "c. Dua garis yang berpotongan tepat di satu titik",
+        "d": "d. Dua garis berimpit",
+        "benar": "c"
+    },
+    {
+        "no": 2,
+        "soal": "Tentukan nilai a pada gambar diatas. ",
+        "a": "a. 12°",
+        "b": "b. 13°",
+        "c": "c. 14°",
+        "d": "d. 15°",
+        "benar": "d"
+    },
+    {
+        "no": 3,
+        "soal": "Besar penyiku ∠SQR adalah …..",
+        "a": "a. 9°",
+        "b": "b. 32°",
+        "c": "c. 48°",
+        "d": "d. 58°",
+        "benar": "d"
+    },
+    {
+        "no": 4,
+        "soal": "Pasangan sudut yang jumlahnya 180° adalah ....",
+        "a": "a. ∠P2 dan ∠Q4",
+        "b": "b. ∠P1 dan ∠Q3",
+        "c": "c. ∠P3 dan ∠Q2",
+        "d": "d. ∠P4 dan ∠Q2",
+        "benar": "c"
+    },
+    {
+        "no": 5,
+        "soal": "Jika besar ∠Y4 = 110°, tentukan besar ∠X4.",
+        "a": "a. 80°",
+        "b": "b. 90°",
+        "c": "c. 100°",
+        "d": "d. 110°",
+        "benar": "d"
+    },
+    {
+        "no": 6,
+        "soal": "Pasangan sudut luar berseberangan adalah….",
+        "a": "a. ∠A3 dan ∠B3",
+        "b": "b. ∠A1 dan ∠B3",
+        "c": "c. ∠A2 dan ∠B4",
+        "d": "d. ∠A1 dan ∠B2",
+        "benar": "b"
+    },
+    {
+        "no": 7,
+        "soal": "Pasangan sudut luar sepihak adalah….",
+        "a": "a. ∠P1 dan ∠Q2",
+        "b": "b. ∠P1 dan ∠Q4",
+        "c": "c. ∠P2 dan ∠Q4",
+        "d": "d. ∠P1 dan ∠Q3",
+        "benar": "b"
+    },
+    {
+        "no": 8,
+        "soal": "Besar sudut x adalah .... ",
+        "a": "a. 30°",
+        "b": "b. 50°",
+        "c": "c. 70°",
+        "d": "d. 85°",
+        "benar": "a"
+    },
+    {
+        "no": 9,
+        "soal": " Tentukan nilai x",
+        "a": "a. 5°",
+        "b": "b. 13°",
+        "c": "c. 10°",
+        "d": "d. 7°",
+        "benar": "a"
+    },
+    {
+        "no": 10,
+        "soal": "Tentukan nilai x",
+        "a": "a. 8°",
+        "b": "b. 12°",
+        "c": "c. 20°",
+        "d": "d. 28°",
+        "benar": "d"
+    },
+    {
+        "no": 11,
+        "soal": "Carilah benda disekitar yang sebangun!  ",
+        "a": "a. ",
+        "b": "b. ",
+        "c": "c. ",
+        "d": "d. ",
+        "benar": "b"
+    },
+    {
+        "no": 12,
+        "soal": "Sebatang pohon dengan tinggi 8 m terletak di depan sebuah Menara yang berjarak 60 m. bayangan puncak Menara dan pohon berimpit. Jika bayangan pohon 10 m, berapakan tinggi Menara? ",
+        "a": "a. 36 m",
+        "b": "b. 56 m",
+        "c": "c. 76 m",
+        "d": "d. 80 m",
+        "benar": "b"
+    },
+    {
+        "no": 13,
+        "soal": "Seorang peneliti akan mengukur lebar Sungai. Dia mengambil garis lurus AB di tepi Sungai sepanjang 48 m. kemudian peneliti berdiri di titik C tegak lurus AB yang berjarak 6 m dari D, dan DE = 8 m. cobalah kalian bantu peneliti untuk mengukur lebar Sungai tersebut.",
+        "a": "a. 12 m",
+        "b": "b. 26 m",
+        "c": "c. 30 m",
+        "d": "d. 44 m",
+        "benar": "c"
+    },
+    {
+        "no": 14,
+        "soal": "DE //  AB, DE  = 8 cm, 6 cm AB = 15 cm, CD = 6 AB = 15 cm, CD = 6 cm.  Panjang AC adalah …",
+        "a": "a. 3,25 cm",
+        "b": "b. 5,35 cm",
+        "c": "c. 11,15 cm",
+        "d": "d. 11,25 cm",
+        "benar": "c"
+    },
+    {
+        "no": 15,
+        "soal": "Maka pernyataan – pernyataan berikut yang benar, kecuali….",
+        "a": "a. BQ = 6 cm",
+        "b": "b. PQ = 2/3 AB",
+        "c": "c. BC = 8 cm",
+        "d": "d. AB = 1,5 PQ",
+        "benar": "c"
+    },
+    {
+        "no": 16,
+        "soal": "Bila kedua segitiga pada gambar di atas sebangun maka Panjang PR adalah…",
+        "a": "a. 18 cm",
+        "b": "b. 12 cm",
+        "c": "c. 10 cm",
+        "d": "d. 8 cm",
+        "benar": "a"
+    },
+    {
+        "no": 17,
+        "soal": "Pernyataan yang benar untuk gambar di atas adalah….",
+        "a": "a. SE : QP = RS : RQ",
+        "b": "b. SE : PQ = RP : RE",
+        "c": "c. SE : PQ = RS : SQ",
+        "d": "d. SE : PQ = RE : EP",
+        "benar": "a"
+    },
+    {
+        "no": 18,
+        "soal": "Nilai x adalah ….. ",
+        "a": "a. 1,5",
+        "b": "b. 6",
+        "c": "c. 8",
+        "d": "d. 10",
+        "benar": "b"
+    },
+    {
+        "no": 19,
+        "soal": " Panjang BD = 3 cm, Panjang AB adalah …",
+        "a": "a. 1,5 cm",
+        "b": "b. 3,0 cm",
+        "c": "c. 4,0 cm",
+        "d": "d. 4,5 cm",
+        "benar": "d"
+    },
+    {
+        "no": 20,
+        "soal": "Jika Panjang AB = 12 cm dan BC = 15 cm maka Panjang AD adalah….",
+        "a": "a. 5,4 cm",
+        "b": "b. 6 cm",
+        "c": "c. 7,2 cm",
+        "d": "d. 9,6 cm",
+        "benar": "d"
+    }
+  ]
+  
